@@ -2,7 +2,7 @@
 
 <li>Bu proje Dünya geneli bütün dillerin tercümesinin yapıldığı platformdur.</li>
 <li>Tercümesi yapılacak dili sistem Otomatik Algılama özelliği ile bulmaktadır.</li>
-<li>Kullanıcı dostu responsive tasarımı mevcuttur.</li>
+<li>Kullanıcı dostu responsive tasarımı vardır.</li>
 
 # Kullanılan Teknolojiler 🎨
 
